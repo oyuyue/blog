@@ -8,7 +8,7 @@
 
 ### 流媒体平台揭秘
 
-[2] [抖音直播原理解析 - 如何在 Web 中播放 FLV 直播流](https://github.com/oyuyue/blog/issues/16)<br>
+[2] [抖音直播原理解析 - 如何在 Web 中播放 FLV 直播流](https://github.com/oyuyue/blog/issues/16) ![](https://img.shields.io/badge/-NEW-brightgreen)<br>
 [1] [斗鱼直播原理解析 - 它是如何省了 80% 的 CDN 流量？](https://github.com/oyuyue/blog/issues/15)
 
 ## 2D
